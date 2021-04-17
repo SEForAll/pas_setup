@@ -34,11 +34,19 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
   - How to .....(can add more)
   
 ### SSH Set Up
-* Directly access through your terminal
-  - For Windows\
-    Type the following command in your terminal where username is your name sent to the server manager (purdue login by default)
-    ```
-    ssh username@precipice.ecn.purdue.edu
-    ```
-  - For Linux
-  - For Macs
+* Use Visual Studio Code to assess the sever(Recommended)\
+  - Click the Extension icon(or `Ctrl + Shift + X`) on the left bar of your visual studio code.
+  - Serach 'ssh' on the serach box
+  - Click the first extension (Remote - SSH) and hit install
+  - After installation, you should see a new icon pops above Extension called Remote Explorer
+  - Hit that icon and find the + icon under ssh target (Add new)
+  - On the pop prompt enter `ssh username@precipice.ecn.purdue.edu` where username is your name sent to the server manager (purdue login by default)
+  - Press enter and it will save automatically in your config file
+  - Now you should see a computer icon pops under your ssh target with name `precipice.ecn.purdue.edu`
+  - Move your cursor around that computer icon and hit the icon on the right called 'Open on SSH Host in New window'
+  - Now you are all set! In the new window, you can click on Open flolder in the file explorer to open the folder you needed.
+* Directly access through your terminal\
+  - Type the following command in your terminal(powershell for windows) where username is your name sent to the server manager (purdue login by default)
+  `ssh username@precipice.ecn.purdue.edu`  
+  - If you log in successfully, you should be able to see the left of your terminal becomes `username@precipice:~$`\
+  Now you are all set!
