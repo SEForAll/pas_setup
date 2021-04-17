@@ -46,7 +46,7 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
   - Move your cursor around that computer icon and hit the icon on the right called 'Open on SSH Host in New window'
   - Now you are all set! In the new window, you can click on Open flolder in the file explorer to open the folder you needed.
 * Directly access through your terminal\
-  - Type the following command in your terminal(powershell for windows) where username is your name sent to the server manager (purdue login by default)
+  - Type the following command in your terminal(powershell for windows) where username is your name sent to the server manager (purdue login by default)\
   `ssh username@precipice.ecn.purdue.edu`  
   - If you log in successfully, you should be able to see the left of your terminal becomes `username@precipice:~$`\
   Now you are all set!
