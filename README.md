@@ -12,6 +12,7 @@ Setup instructions for Program Analysis Project!
       <ul>
         <li><a href="#server-set-up">Server Set Up</a></li>
         <li><a href="#ssh-set-up">SSH Set Up</a></li>
+        <li><a href="#subteam-set-up">Subteam Set Up</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -45,8 +46,17 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
   - Now you should see a computer icon pops under your ssh target with name `precipice.ecn.purdue.edu`
   - Move your cursor around that computer icon and hit the icon on the right called 'Open on SSH Host in New window'
   - Now you are all set! In the new window, you can click on Open flolder in the file explorer to open the folder you needed.
-* Directly access through your terminal\
+* Directly access through your terminal
   - Type the following command in your terminal(powershell for windows) where username is your name sent to the server manager (purdue login by default)\
   `ssh username@precipice.ecn.purdue.edu`  
   - If you log in successfully, you should be able to see the left of your terminal becomes `username@precipice:~$`\
   Now you are all set!
+### Subteam Set Up
+* If you are in frontend team
+  Please Read Instrction on:
+  https://github.com/PurdueCAM2Project/pas_frontend/blob/main/README.md
+* If you are in backend team
+  Please Read Instrction on: 
+  https://github.com/PurdueCAM2Project/pas_backend/blob/main/README.md
+* If you are in Testing team
+  Please read the ReadMe of team you are responsible for testing
