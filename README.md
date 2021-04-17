@@ -26,6 +26,9 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
 ## Getting Started
 ### Server Set Up
 * For group member 
+  - Generate Public key....(add ...)
+  - Send Public key...(add ...)
+  - ....
 * For server manger
   - How to Add user
   - How to .....(can add more)
