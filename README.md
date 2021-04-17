@@ -34,3 +34,11 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
   - How to .....(can add more)
   
 ### SSH Set Up
+* Directly access through your terminal
+  - For Windows\
+    Type the following command in your terminal where username is your name sent to the server manager (purdue login by default)
+    ```
+    ssh username@precipice.ecn.purdue.edu
+    ```
+  - For Linux
+  - For Macs
