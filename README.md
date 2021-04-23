@@ -27,12 +27,24 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
 ## Getting Started
 ### Server Set Up
 * For group member 
-  - Generate Public key....(add ...)
-  - Send Public key...(add ...)
-  - ....
+  - Set up an ssh key pair on your own computer and the ECE Grid.
+      >  1. Run `ssh-keygen` in Powershell on Windows, or any terminal on a Unix based system.
+      >  2. Type `cat ~/.ssh/id_rsa.pub`, then copy the entire output (everything including `ssh-rsa` and `***@hostname`) to your
+      >     clipboard and email to the system administrator.
+      >  3. Once the administrator adds your account, try loging in with `username@precipice.ecn.purdue.edu`
+      >  4. Once logged in, if you have not been prompted to update your password, run `passwd` and set your password.
 * For server manger
-  - How to Add user
-  - How to .....(can add more)
+  - Adding a new user to Precipice.
+      >  1. run `sudo useradd -m [username]`
+      >  2. Ask new user to provide their public key to you
+      >  3. From the servadmin folder in this repository, run:
+      
+                  sudo ./addKey.sh [username] "<paste user key here>"
+                  echo "[username]" | sudo ./resetPasswd.sh
+            
+      >  4. Inform user that they may now log in to the system with instructions above.
+   - Giving sudo privileges to a user.
+      >  `sudo usermod -aG sudo [username]`
   
 ### SSH Set Up
 * Use Visual Studio Code to assess the sever(Recommended)\
