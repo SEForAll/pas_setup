@@ -29,12 +29,12 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
 
 ## New Member Onboarding
 Check and make sure you do all the thing!
-* [ ] Be added to program analysis slack channel
-* [ ] Contact your subteam leader and be added to discord server
-* [ ] Finish the set up in Getting Started Section
-* [ ] Check in every week with your team/alone to report your progress/plan/issue
-* [ ] Attend your subteam meeting
-* [ ] Prepare slides and present your progress on the all-hands meeting (See presentation section)
+- [ ] Be added to program analysis slack channel
+- [ ] Contact your subteam leader and be added to discord server
+- [ ] Finish the set up in Getting Started Section
+- [ ] Check in every week with your team/alone to report your progress/plan/issue
+- [ ] Attend your subteam meeting
+- [ ] Prepare slides and present your progress on the all-hands meeting (See presentation section)
 
 ## Getting Started
 ### Github Set Up
