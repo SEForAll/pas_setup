@@ -63,10 +63,14 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
   Now you are all set!
 ### Subteam Set Up
 * If you are in frontend team
-  Please Read Instrction on:
-  https://github.com/PurdueCAM2Project/pas_frontend/blob/main/README.md
+  - Please Read Instrction on:\
+    https://github.com/PurdueCAM2Project/pas_frontend/blob/main/README.md
+  - Read the dijango document:\
+    https://docs.djangoproject.com/en/3.2/
 * If you are in backend team
-  Please Read Instrction on: 
-  https://github.com/PurdueCAM2Project/pas_backend/blob/main/README.md
-* If you are in Testing team
-  Please read the ReadMe of team you are responsible for testing
+  - Please Read Instrction on:\
+    https://github.com/PurdueCAM2Project/pas_backend/blob/main/README.md
+  - Have good knowledge of regular expression
+  - Have good knowledge of python class
+* If you are in Testing team 
+  - Please read the ReadMe of team you are responsible for testing
