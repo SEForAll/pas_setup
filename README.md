@@ -7,6 +7,7 @@ Setup instructions for Program Analysis Project!
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
+    <li><a href="#new-member-onboarding">New Member Onboarding</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -16,6 +17,7 @@ Setup instructions for Program Analysis Project!
         <li><a href="#subteam-set-up">Subteam Set Up</a></li>
       </ul>
     </li>
+    <li><a href="#presentation">How to do presentation</a></li>
     <li><a href="#acknowledgement">Acknowledgement</a></li>
   </ol>
 </details>
@@ -24,6 +26,14 @@ Setup instructions for Program Analysis Project!
 Program Analysis aims to build a system that can do more program analysis instead of a simple grading system. Currently, there are a lot of platforms for grading systems but none of them provide features like memory issue checking, error message suggestions and so on features. Also, we plan to impelement an easier way for user to custom their own test cases.
 
 Our current team is made up of backend, frontend and testing subteams. Frontend is in charge of the UI design for submission and login pages. Backend is responsible for the establishment of database and grading. Testing team is responsible for using pytest to test the design. Our semester goal to make a fully functional grading system. Our next step is to try to implement those features to analyze programs.
+
+## New Member Onboarding
+* Be added to program analysis slack channel
+* Contact your subteam leader and be added to discord server
+* Finish the set up in Getting Started Section
+* Check in every week with your team/alone to report your progress/plan/issue
+* Attend your subteam meeting
+* Prepare slides and present your progress on the all-hands meeting (See presentation section)
 
 ## Getting Started
 ### Github Set Up
@@ -65,6 +75,7 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
   `ssh username@precipice.ecn.purdue.edu`  
   - If you log in successfully, you should be able to see the left of your terminal becomes `username@precipice:~$`\
   Now you are all set!
+
 ### Subteam Set Up
 * If you are in frontend team
   - Please Read Instrction on:\
@@ -78,7 +89,14 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
   - Have good knowledge of python class
 * If you are in Testing team 
   - Please read the ReadMe of team you are responsible for testing
-  
+
+## How to do presentation
+* Be short and concise 
+* Demo/Illustration are better than words
+* **State the issue clearly rather than simply say "It does not work"**
+  - Leaders should pay attention to this and ask that member why it does not work
+  - Leaders should also monior all the members' task, make sure they are not misunderstand and wasting time doing useless stuff
+
 ## Acknowledgement
 * Shan Huang (Spring 2021, Summer 2021 Leader) - huan1372@purdue.edu
 * Jonathan Doorn (Spring 2021 Co-Leader) - jdoorn@purdue.edu
