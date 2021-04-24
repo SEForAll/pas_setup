@@ -28,12 +28,12 @@ Program Analysis aims to build a system that can do more program analysis instea
 Our current team is made up of backend, frontend and testing subteams. Frontend is in charge of the UI design for submission and login pages. Backend is responsible for the establishment of database and grading. Testing team is responsible for using pytest to test the design. Our semester goal to make a fully functional grading system. Our next step is to try to implement those features to analyze programs.
 
 ## New Member Onboarding
-* Be added to program analysis slack channel
-* Contact your subteam leader and be added to discord server
-* Finish the set up in Getting Started Section
-* Check in every week with your team/alone to report your progress/plan/issue
-* Attend your subteam meeting
-* Prepare slides and present your progress on the all-hands meeting (See presentation section)
+[] Be added to program analysis slack channel
+[] Contact your subteam leader and be added to discord server
+[] Finish the set up in Getting Started Section
+[] Check in every week with your team/alone to report your progress/plan/issue
+[] Attend your subteam meeting
+[] Prepare slides and present your progress on the all-hands meeting (See presentation section)
 
 ## Getting Started
 ### Github Set Up
