@@ -17,7 +17,7 @@ Setup instructions for Program Analysis Project!
         <li><a href="#subteam-set-up">Subteam Set Up</a></li>
       </ul>
     </li>
-    <li><a href="#presentation">How to do presentation</a></li>
+    <li><a href="#how-to-do-presentation">How to do presentation</a></li>
     <li><a href="#acknowledgement">Acknowledgement</a></li>
   </ol>
 </details>
