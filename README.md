@@ -41,7 +41,7 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
         `sudo ./addKey.sh [username] "<paste user key here>"` \
         `echo "[username]" | sudo ./resetPasswd.sh`      
       4. Inform user that they may now log in to the system with instructions above.
-   - Giving sudo privileges to a user. \
+   - Giving sudo privileges to a user.(**Only if this user is leader or server manger**) \
      `sudo usermod -aG sudo [username]`
   
 ### SSH Set Up
