@@ -80,5 +80,5 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
   - Please read the ReadMe of team you are responsible for testing
   
 ## Acknowledgement
-* Shan Huang (Spring 2021, Summer 2021 Leader)
-* Jonathan Doorn (Spring 2021 Co-Leader)
+* Shan Huang (Spring 2021, Summer 2021 Leader) - huan1372@purdue.edu
+* Jonathan Doorn (Spring 2021 Co-Leader) - jdoorn@purdue.edu
