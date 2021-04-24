@@ -10,12 +10,13 @@ Setup instructions for Program Analysis Project!
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
+        <li><a href="#github-set-up">Github Set Up</a></li>
         <li><a href="#server-set-up">Server Set Up</a></li>
         <li><a href="#ssh-set-up">SSH Set Up</a></li>
         <li><a href="#subteam-set-up">Subteam Set Up</a></li>
       </ul>
     </li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgement">Acknowledgement</a></li>
   </ol>
 </details>
 
@@ -25,6 +26,9 @@ Program Analysis aims to build a system that can do more program analysis instea
 Our current team is made up of backend, frontend and testing subteams. Frontend is in charge of the UI design for submission and login pages. Backend is responsible for the establishment of database and grading. Testing team is responsible for using pytest to test the design. Our semester goal to make a fully functional grading system. Our next step is to try to implement those features to analyze programs.
 
 ## Getting Started
+### Github Set Up
+* Access to the repository 
+  - 
 ### Server Set Up
 * For group member 
   - Set up an ssh key pair on your own computer and the ECE Grid.
@@ -74,3 +78,7 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
   - Have good knowledge of python class
 * If you are in Testing team 
   - Please read the ReadMe of team you are responsible for testing
+  
+## Acknowledgement
+* Shan Huang (Spring 2021, Summer 2021 Leader)
+* Jonathan Doorn (Spring 2021 Co-Leader)
