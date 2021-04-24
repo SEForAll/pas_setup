@@ -45,7 +45,7 @@ Our current team is made up of backend, frontend and testing subteams. Frontend 
      `sudo usermod -aG sudo [username]`
   
 ### SSH Set Up
-* Use Visual Studio Code to assess the sever(Recommended)\
+* Use Visual Studio Code to assess the sever(Recommended)
   - Click the Extension icon(or `Ctrl + Shift + X`) on the left bar of your visual studio code.
   - Serach 'ssh' on the serach box
   - Click the first extension (Remote - SSH) and hit install
