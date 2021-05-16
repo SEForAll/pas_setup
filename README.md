@@ -36,12 +36,12 @@ Check and make sure you do all the thing!
 - [ ] Finish the set up in Getting Started Section
 - [ ] Check in every week with your team/alone to report your progress/plan/issue
 - [ ] Attend your subteam meeting
-- [ ] Prepare slides and present your progress on the all-hands meeting (See presentation section)
 
 ## Getting Started
 ### Github Set Up
 * Access to the repository 
-  - 
+  - Send team leader your github name
+  - Wait to be added to the github
 ### Server Set Up
 * For group member 
   - Set up an ssh key pair on your own computer and the ECE Grid.
