@@ -15,6 +15,7 @@ Setup instructions for Program Analysis Project!
         <li><a href="#server-set-up">Server Set Up</a></li>
         <li><a href="#ssh-set-up">SSH Set Up</a></li>
         <li><a href="#subteam-set-up">Subteam Set Up</a></li>
+        <li><a href="#basic-command-for-git">Basic command for git</a></li>
       </ul>
     </li>
     <li><a href="#how-to-do-presentation">How to do presentation</a></li>
@@ -60,6 +61,13 @@ Check and make sure you do all the thing!
       4. Inform user that they may now log in to the system with instructions above.
    - Giving sudo privileges to a user.(**Only if this user is leader or server manger**) \
      `sudo usermod -aG sudo [username]`
+   - Check current root user \
+     `cat /etc/group | grep sudo`
+   - Command to change privilege 
+      1. Change to root(set password first if you do not have one) \
+        `sudo -s` \
+        You should see you become root because $ will change to #
+      2. To get out of root do `CTRL + D` or `command + D`
   
 ### SSH Set Up
 * Use Visual Studio Code to assess the sever(Recommended)
@@ -92,6 +100,12 @@ Check and make sure you do all the thing!
   - Have good knowledge of python class
 * If you are in Testing team 
   - Please read the ReadMe of team you are responsible for testing
+  
+## Basic command for git
+* `git clone + HTTPS link on repository` : clone the repository to the local
+* `git add` : command use to add files to commit
+* `git commit -m "message here"` : command to commit the added file
+* `git push` : Push the file been committed
 
 ## How to do presentation
 * Be short and concise 
